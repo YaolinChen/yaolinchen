@@ -2,7 +2,7 @@
   "name": "yaolinchen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YaolinChen.github.io/yaolinchen/",
+  "homepage": "https://yaolinchen.github.io/yaolinchen/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
