@@ -1,8 +1,8 @@
 {
-  "name": "yaolin-chen",
+  "name": "yaolinchen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yaolinchen.github.io/yaolin-chen/",
+  "homepage": "https://yaolinchen.github.io/yaolinchen/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
